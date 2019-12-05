@@ -1,0 +1,19 @@
+{
+  "dt": 1523197443,
+  "weather": {
+    "temp": 285.524,
+    "pressure": 1021.39,
+    "humidity": 100,
+    "temp_min": 285.524,
+    "temp_max": 285.524,
+    "sea_level": 1031.04,
+    "grnd_level": 1021.39
+  },
+  "wind": {
+    "speed": 11.58,
+    "deg": 262.5
+  },
+  "clouds": {
+    "all": 0
+  }
+}

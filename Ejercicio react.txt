@@ -1,0 +1,15 @@
+Desarrollar una SPA que nos permita registrar entradas a diferentes eventos.
+Deberá ser un formulario que sea controlado en el mismo estado de la aplicación.
+
+
+Requerimientos:
+
+Nombre, apellido
+Tipo de evento
+Fecha y hora
+id del evento
+
+Los datos deberán persistir en una base de datos a elección (json server o local storage) y que tenga la opción de poder ser eliminados.
+
+
+Subir a github y enviar por mail.
